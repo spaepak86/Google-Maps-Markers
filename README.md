@@ -25,6 +25,10 @@ Use the following format when linking to the GitHub-hosted image files:
 ```
 https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_[color][character].png
 ```
+ex)
+```
+https://raw.githubusercontent.com/spaepak86/Google-Maps-Markers/master/images/marker_red.png
+```
 | Placeholder | Possible Values |
 | --- | --- |
 | color | red, black, blue, green, grey, orange, purple, white, yellow |
